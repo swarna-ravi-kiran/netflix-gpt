@@ -11,3 +11,11 @@ git push -u origin main
 git remote add origin https://github.com/swarna-ravi-kiran/netflix-gpt.git
 git branch -M main
 git push -u origin main
+
+# to know the status (initial steps to push the code)
+git add -A
+git status
+git config user.name "Your Name"
+git config user.email "your-email@example.com"
+git commit -m "Initial project commit"
+git push -u origin main
