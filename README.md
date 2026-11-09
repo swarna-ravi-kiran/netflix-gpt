@@ -1,5 +1,4 @@
 # git initial steps (create a new repository on the command line)
-echo "# netflix-gpt" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
