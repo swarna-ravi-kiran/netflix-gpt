@@ -18,3 +18,5 @@
  -search bar
  -movie suggestions
   
+
+-->formik is the librart to use validations for the forms.
