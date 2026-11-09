@@ -12,7 +12,7 @@ git remote add origin https://github.com/swarna-ravi-kiran/netflix-gpt.git
 git branch -M main
 git push -u origin main
 
-# to know the status (initial steps to push the code)
+# to know the status (steps to push the code)
 git add -A
 git status
 git config user.name "Your Name"
