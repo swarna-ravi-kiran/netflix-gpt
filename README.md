@@ -41,6 +41,10 @@ git branch -->to find branch name
 -> we have to run this command firebase.cmd init, it will ask some question we have to say 'No' for all.
 ->will run the build command, it will build folder of the app, then we have to the deployment.(https://netflixgpt-501bb.web.app/)..,it will give browser URL for the application, that we can say it as domain URL.
 
+->then run this command firebase.cmd init (Initializing firebase then select hosting)
+->then run npm.cmd run build -->it will do the build and build folder will generated with html, then we have to run deployment of the build folder.
+->command for build deployment is firebase.cmd deploy (https://netflixgpt-501bb.web.app/) deployed application
+
 # login credentials
 1.swarna@gmail.com,ravi@gmai.com -email
 Nani@1470 -password
