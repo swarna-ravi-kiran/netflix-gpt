@@ -33,3 +33,14 @@ git branch -->to find branch name
 
 # extension for rafce(react arrow function component export)
  ES7+ React/Redux/React-Native snippets
+
+# deployment steps for application
+->first we need a domain for deploy the any application i.e..(firebase, cloud, azure, aws) from here we can the domains
+->we have to add our application to that domain and we have to do the configuration of the domain to our app. (ex:-firebase.js)
+->it will check in the domain, weather our creds are registered or not.
+-> we have to run this command firebase.cmd init, it will ask some question we have to say 'No' for all.
+->will run the build command, it will build folder of the app, then we have to the deployment.(https://netflixgpt-501bb.web.app/)..,it will give browser URL for the application, that we can say it as domain URL.
+
+# login credentials
+1.swarna@gmail.com,ravi@gmai.com -email
+Nani@1470 -password
